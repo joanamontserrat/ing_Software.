@@ -1,0 +1,302 @@
+[
+    {
+        "nombre": "Milo",
+        "especie": "Perro",
+        "raza": "Labrador",
+        "edad": "4",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Luna",
+        "especie": "Gato",
+        "raza": "Siames",
+        "edad": "2",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Rocky",
+        "especie": "Perro",
+        "raza": "Boxer",
+        "edad": "5",
+        "salud": "Regular",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Nina",
+        "especie": "Gato",
+        "raza": "Persa",
+        "edad": "1",
+        "salud": "Grave",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Thor",
+        "especie": "Perro",
+        "raza": "Husky",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Mia",
+        "especie": "Gato",
+        "raza": "Maine Coon",
+        "edad": "6",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Chispa",
+        "especie": "Gato",
+        "raza": "Europeo",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Bruno",
+        "especie": "Perro",
+        "raza": "Pastor Alemán",
+        "edad": "7",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Kira",
+        "especie": "Gato",
+        "raza": "Bengala",
+        "edad": "2",
+        "salud": "Grave",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Max",
+        "especie": "Perro",
+        "raza": "Golden Retriever",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Toby",
+        "especie": "Perro",
+        "raza": "Pug",
+        "edad": "4",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Lola",
+        "especie": "Gato",
+        "raza": "Angora",
+        "edad": "1",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Roco",
+        "especie": "Perro",
+        "raza": "Bulldog",
+        "edad": "6",
+        "salud": "Regular",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Pelusa",
+        "especie": "Gato",
+        "raza": "Siberiano",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Canela",
+        "especie": "Perro",
+        "raza": "Chihuahua",
+        "edad": "2",
+        "salud": "Grave",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Cleo",
+        "especie": "Gato",
+        "raza": "Azul Ruso",
+        "edad": "5",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Zeus",
+        "especie": "Perro",
+        "raza": "Dálmata",
+        "edad": "4",
+        "salud": "Regular",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Tigre",
+        "especie": "Gato",
+        "raza": "Común",
+        "edad": "2",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Bobby",
+        "especie": "Perro",
+        "raza": "Cocker",
+        "edad": "5",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Kiwi",
+        "especie": "Gato",
+        "raza": "Abisinio",
+        "edad": "1",
+        "salud": "Grave",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Rayo",
+        "especie": "Perro",
+        "raza": "Whippet",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Nube",
+        "especie": "Gato",
+        "raza": "Balines",
+        "edad": "2",
+        "salud": "Regular",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Coco",
+        "especie": "Perro",
+        "raza": "Schnauzer",
+        "edad": "6",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Leia",
+        "especie": "Gato",
+        "raza": "Manx",
+        "edad": "4",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Tango",
+        "especie": "Perro",
+        "raza": "Terrier",
+        "edad": "3",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Aurora",
+        "especie": "Gato",
+        "raza": "Bombay",
+        "edad": "2",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro1.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Oso",
+        "especie": "Perro",
+        "raza": "San Bernardo",
+        "edad": "5",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro2.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Nina",
+        "especie": "Gato",
+        "raza": "Ragdoll",
+        "edad": "1",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro3.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Zoe",
+        "especie": "Perro",
+        "raza": "Border Collie",
+        "edad": "2",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro5.png",
+        "estado_actual": "En Adopción"
+    },
+    {
+        "nombre": "Galo",
+        "especie": "Perro",
+        "raza": "Dalmata",
+        "edad": "1",
+        "salud": "Buena",
+        "estado": "Rescatado",
+        "foto": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/refugio_animales/assets/perro4.png",
+        "estado_actual": "En Adopción"
+    }
+]

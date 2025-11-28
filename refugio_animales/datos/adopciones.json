@@ -1,0 +1,14 @@
+[
+    {
+        "animal": "Simba",
+        "especie": "Perro",
+        "edad": "2",
+        "salud": "Regular",
+        "adoptante": "Juan Peréz",
+        "correo": "Juan456@gmail.com",
+        "telefono": "1231231230",
+        "ine": "C:/Users/abrah/OneDrive/Documentos/programacion Avanzada/fondohotel.jpg",
+        "notas": "",
+        "fecha": "22/05/2025 16:51"
+    }
+]
